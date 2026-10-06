@@ -116,6 +116,11 @@ Potential future extensions include:
 - Smart home integration
 - Expanded personalized information
 
+  ## 🎨 Concept Visualization
+
+> AI-generated concept visualization of the proposed Smart Mirror.
+> This image represents the project's design concept and is not a photograph of a physical prototype.
+
 ## 📌 Project Status
 
 **Ideathon Project / Prototype Concept**
