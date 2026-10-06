@@ -6,8 +6,8 @@ An IoT-based Smart Mirror that combines a traditional mirror with digital techno
 
 ## 👩‍💻 Team
 
-- P. Gayathri Siva Priya
 - P. Venkata Sai Pranathi
+- P. Gayathri Siva Priya
 
 ## 💡 Project Overview
 
